@@ -1,0 +1,26 @@
+the_little_man = """
+  O
+ /|\\
+ / \\ 
+"""
+the_little_man_damage1 = """
+  O
+/*|\\
+ / \\ """
+the_little_man_damage2 = """
+  O
+/*| *\\
+ / \\ """
+the_little_man_damage3 = """
+  O
+/*| *\\
+ / *\\ """
+the_little_man_damage4 = """
+  O
+/*| *\\
+/* *\\ """
+the_little_man_dead = """
+  O
+  *
+/*| *\\
+/* *\\ """
